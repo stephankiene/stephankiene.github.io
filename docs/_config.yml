@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "StephanKiene@github.io"
+title                    : "stephankiene@github.io"
 title_separator          : "|"
 subtitle                 : "In God We Trust; All Others, Bring Data"
 name                     : "Stephan Kiene"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephan Kiene"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me_white_bg.jpg"
   bio              : "Data & AI Architect at Microsoft. AI & IoT Enthusiast. Never stop exploring. "
   location         : "Cologne, Germany"
   email            :
