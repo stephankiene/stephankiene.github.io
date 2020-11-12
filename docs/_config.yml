@@ -22,7 +22,7 @@ subtitle                 : "In God We Trust; All Others, Bring Data"
 name                     : "Stephan Kiene"
 description              : "Field Notes on Cloud, Data, AI and IoT"
 url                      : "https://stephankiene.github.io"
-baseurl                  : "/docs" # the subpath of your site, e.g. 
+baseurl                  : # "/docs" # the subpath of your site, e.g. 
 repository               : "stephankiene/stephankiene.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
