@@ -4,6 +4,7 @@ layout: single
 title:  "Welcome to Jekyll!"
 date:   2020-11-10 23:36:40 +0100
 categories: jekyll update
+tags: hyde downgrade
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
