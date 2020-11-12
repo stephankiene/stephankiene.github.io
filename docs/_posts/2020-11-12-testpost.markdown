@@ -1,0 +1,10 @@
+---
+# layout: post
+layout: single
+title:  "Testpost"
+date:   2020-11-12 12:42:40 +0100
+categories: test ghpages
+---
+This is just a test that everything in the `_posts` directory is processes.
+
+
