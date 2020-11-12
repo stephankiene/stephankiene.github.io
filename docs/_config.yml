@@ -22,12 +22,12 @@ subtitle                 : "In God We Trust; All Others, Bring Data"
 name                     : "Stephan Kiene"
 description              : "Field Notes on Cloud, Data, AI and IoT"
 url                      : "https://stephankiene.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/docs" # the subpath of your site, e.g. 
 repository               : "stephankiene/stephankiene.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -239,6 +239,10 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
 category_archive:
   type: liquid
   path: /categories/
