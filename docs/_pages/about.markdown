@@ -1,16 +1,9 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      
+title: About
+layout: single   
 permalink: /about/
 ---
 
-Test for ABOUT
+##Test for ABOUT
 
-This is a brief test for the about page.
+This is a _brief_ test for the **about** page.

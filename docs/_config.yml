@@ -243,6 +243,9 @@ collections:
   archives:
     output: true
     permalink: /archives/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 category_archive:
   type: liquid
   path: /categories/
@@ -284,5 +287,33 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  # _archive
+  - scope:
+      path: ""
+      type: archives
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
 
 github: [metadata]

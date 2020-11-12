@@ -4,6 +4,9 @@ layout: single
 title:  "Testpost"
 date:   2020-11-12 12:42:40 +0100
 categories: test ghpages
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 This is just a test that everything in the `_posts` directory is processes.
 
