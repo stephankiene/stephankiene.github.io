@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "stephankiene@github.io"
 title_separator          : "|"
-subtitle                 : "In God We Trust; All Others, Bring Data"
+subtitle                 : # "Field Notes on Cloud, Data, AI and IoT"
 name                     : "Stephan Kiene"
 description              : "Field Notes on Cloud, Data, AI and IoT"
 url                      : "https://stephankiene.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Stephan Kiene"
   avatar           : "/images/me_white_bg.jpg"
-  bio              : "Data & AI Architect at Microsoft. Machine Learning & IoT Enthusiast. Ex-DHL Analytics Lead."
+  bio              : "Data & AI Architect at Microsoft. Machine Learning & IoT Enthusiast. In God We Trust, All Others Bring Data."
   location         : "Cologne, Germany"
   email            :
   links:
