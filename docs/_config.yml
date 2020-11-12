@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephan Kiene"
-  avatar           : "assets/images/me_white_bg.jpg"
+  avatar           : "/images/me_white_bg.jpg"
   bio              : "Data & AI Architect at Microsoft. Machine Learning & IoT Enthusiast. Ex-DHL Analytics Lead."
   location         : "Cologne, Germany"
   email            :

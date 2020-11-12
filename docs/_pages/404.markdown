@@ -1,3 +1,0 @@
-Test for 404
-
-This is a brief test for the 404 page.
